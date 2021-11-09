@@ -1,0 +1,43 @@
+#head{
+    text-align: center;
+    box-shadow: 2px 3px black;
+    border: 2px solid black;
+    font-size: 3rem;
+    position: relative;
+    margin: 14px;
+    box-sizing: border-box;
+    background-color: red;
+}
+.symb{
+    padding: 10px;
+}
+.display{
+    text-align: center;
+    font-weight: 700;
+    font-size: 2.5rem;
+}
+.inhead{
+    text-align: center;
+    font-size: 1.3rem;
+    font-weight: 600;
+}
+
+.functions{
+    font-weight: 800;
+    text-align: center;
+    margin-top: 3rem;
+    font-size: 20px;
+    word-wrap: inherit;
+}
+.function{
+    border: 2px solid black;
+    box-shadow: 3px 4px black;
+    margin: 1rem;
+    padding: 8px;
+    cursor: pointer;
+}
+div.hidden{
+    color: red;
+    font-size: 1rem;
+    text-align: center;
+}
